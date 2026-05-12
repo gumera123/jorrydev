@@ -1,9 +1,9 @@
 Hi there, I'm Jorry
 
-🎓 4th Year BSIT Student at Bukidnon State University
-💻 Aspiring Full-Stack Developer | Tech Support | Network Engineer
-🏅 Holder of CSS NC II (Computer Systems Servicing NC II)
-📍 Based in Malaybalay City / Bukidnon
+- 4th Year BSIT Student at Bukidnon State University
+- Aspiring Full-Stack Developer | Tech Support | Network Engineer
+- Holder of CSS NC II (Computer Systems Servicing NC II)
+- Based in Malaybalay City / Bukidnon
 
 ## About Me
 
@@ -48,5 +48,5 @@ Basketball helps me reset and stay competitive
 I believe consistency beats talent when talent stops working
 
 ## Connect With Me
-GitHub: https://github.com/gumera123
-Email: gumerajorry00@gmail.com
+- GitHub: https://github.com/gumera123
+- Email: gumerajorry00@gmail.com
