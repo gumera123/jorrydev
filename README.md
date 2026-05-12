@@ -1,4 +1,4 @@
-Hi there, I'm Jorry
+## Hi there, I'm Jorry
 
 - 4th Year BSIT Student at Bukidnon State University
 - Aspiring Full-Stack Developer | Tech Support | Network Engineer
